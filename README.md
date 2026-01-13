@@ -1,6 +1,6 @@
 Brady Pinter
 
-Spring/Summer Sophmore Year 2024 Research
+Spring and Summer Independent Research Project at Belmont University
 
 All files present within this gibhub is information/sourcing used for a 2024 research at Belmont University. 
 
