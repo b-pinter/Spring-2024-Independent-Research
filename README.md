@@ -1,4 +1,4 @@
-Brady Pinter
+**Socio-Economic effects on COVID-19 Mortality Rates : A machine learning approach**
 
 Spring and Summer Independent Research Project at Belmont University
 
